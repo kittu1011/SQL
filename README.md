@@ -1,5 +1,5 @@
 # LeetCode SQL
-Personal solutions to LeetCode SQL problems, organized by topic.
+Personal solutions *(PostgreSQL)* to LeetCode SQL problems, organized by topic.
 
 ## Structure
 | Folder | Topic |
@@ -25,7 +25,7 @@ All solutions written in **PostgreSQL**.
 ## Stats
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **0** |
+| **Total** | **1** |
