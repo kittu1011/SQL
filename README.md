@@ -25,7 +25,7 @@ All solutions written in **PostgreSQL**.
 ## Stats
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 18 |
+| Easy | 19 |
 | Medium | 16 |
 | Hard | 0 |
-| **Total** | **34** |
+| **Total** | **35** |
